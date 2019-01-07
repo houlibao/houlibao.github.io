@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 关于此博客
+title: 关于此博客的来源
 category: life
 tags: [life]
 no-post-nav: true
