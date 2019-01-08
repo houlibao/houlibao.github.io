@@ -152,8 +152,8 @@ Spring Cloud对于中小型互联网公司来说是一种福音，因为这类�
 
 -------------
 
-**作者：纯洁的微笑**  
-**出处：[http://www.ityouknow.com/](http://www.ityouknow.com/springcloud/2017/05/01/simple-springcloud.html)**      
+**作者：Yvan的人生**  
+**出处：[http://www.hlbhcz.com/](http://www.hlbhcz.com/springcloud/2017/05/01/simple-springcloud.html)**      
 **版权归作者所有，转载请注明出处** 
 
 

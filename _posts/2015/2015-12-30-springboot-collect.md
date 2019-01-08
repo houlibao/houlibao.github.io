@@ -5,7 +5,7 @@ category: springboot
 tags: [springboot]
 ---
 
-收集Spring Boot相关的学习资料，[Spring Cloud点这里](http://www.ityouknow.com/springcloud/2016/12/30/springcloud-collect.html)
+收集Spring Boot相关的学习资料，[Spring Cloud点这里](http://www.hlbhcz.com/springcloud/2016/12/30/springcloud-collect.html)
 
 
 **重点推荐：[Spring Boot 中文索引](http://springboot.fun/)**
@@ -14,7 +14,7 @@ tags: [springboot]
 ## 推荐博客
 
 
-- [纯洁的微笑](http://www.ityouknow.com/spring-boot.html)
+- [Yvan的人生](http://www.hlbhcz.com/spring-boot.html)
 
 - [程序猿DD](http://blog.didispace.com/categories/Spring-Boot/) 
 
