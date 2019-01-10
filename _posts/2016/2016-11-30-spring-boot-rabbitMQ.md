@@ -426,9 +426,7 @@ fanout Receiver C: hi, fanout msg
 结果说明，绑定到fanout交换机上面的队列都收到了消息
 
 
-**[示例代码-github](https://github.com/ityouknow/spring-boot-examples)**
-
-**[示例代码-码云](https://gitee.com/ityouknow/spring-boot-examples)**
+ 
 
 ## 参考
 

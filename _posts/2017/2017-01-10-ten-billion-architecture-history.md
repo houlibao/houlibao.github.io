@@ -57,7 +57,7 @@ tags: [arch]
 ![](http://www.hlbhcz.com/assets/images/2017/architecture/db.jpg)  
 
 
-mysql实时同步到mongodb，我们使用的是[tungsten-relicator](https://github.com/vmware/tungsten-replicator)这个工具，会在mysql服务器端启动一个监控agent，实时监控mysql的binlog日志，同时在mongodb的服务器端也起了一个服务端，agent监控到数据变化后传送给服务端，服务端解析后插入到mongodb集群中以达到实时同步的效果，如上图，当初写了一篇文章来介绍：[大数据实践-数据同步篇tungsten-relicator（mysql->mongo）](http://www.cnblogs.com/ityouknow/p/4918164.html)，其实这个工具在使用中，也不是特别的稳定，但是当初的选择方案并不多，幸好后期慢慢的熟悉后算是稳定了下来。
+mysql实时同步到mongodb，我们使用的是[tungsten-relicator](https://github.com/vmware/tungsten-replicator)这个工具，会在mysql服务器端启动一个监控agent，实时监控mysql的binlog日志，同时在mongodb的服务器端也起了一个服务端，agent监控到数据变化后传送给服务端，服务端解析后插入到mongodb集群中以达到实时同步的效果，如上图，当初写了一篇文章来介绍：[大数据实践-数据同步篇tungsten-relicator（mysql->mongo），其实这个工具在使用中，也不是特别的稳定，但是当初的选择方案并不多，幸好后期慢慢的熟悉后算是稳定了下来。
 
 数据清洗系统我们大胆的使用了golang来开发，当时使用的golang版本是1.3吧，现在都1.8了，以前也是没有接触过也是锻炼了队伍，好在golang语言本身非常简洁和高效，虽然踩了N多坑，但是最终我们还是按时投产了；后来又使用了golang开发了一个后台，是在beego框架的基础上来做的。大数据分析系统后来又升级了一代，在前端的各业务系统，UI用户层做了很多埋点来收集用户数据，通过activeMQ传输接收最后存储到mongodb，在进行数据清洗，将清洗后的结果存入到结果库中，供前端业务系统使用；后来利用beego+echart重新做了一版数据分析系统。
 

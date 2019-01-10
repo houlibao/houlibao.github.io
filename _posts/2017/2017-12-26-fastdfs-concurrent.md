@@ -383,7 +383,6 @@ public static String[] upload(FastDFSFile file) {
 
 **根据上面的分析可以看出，最好的解决方案就是每次调用的时候new一个新的实例去使用。也提醒大家在使用FastDFS的时候，尽量不要重用StorageClient！**
 
-后来我在github上面给FastDFS提交了pull来说明这个问题，有一个网友也给出了同样的理解：[解决并发空指针问题](https://github.com/happyfish100/fastdfs-client-java/pull/28) ；文中的测试代码我放到了这里：[spring-examples](https://github.com/ityouknow/spring-examples)，感兴趣的同学可以继续去了解。
 
 ## 最后
 

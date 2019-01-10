@@ -107,7 +107,7 @@ session使用持久化技术来保存登录状态，登录一次保持需要会�
 
 **[示例代码-github](https://github.com/cloudfavorites/favorites-web)**
 
-**[示例代码-码云](https://gitee.com/ityouknow/favorites-web)**
+ 
 
 
 -------------

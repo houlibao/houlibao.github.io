@@ -122,7 +122,6 @@ Turbine、zipkin可以用来做熔断和性能监控；动态上下线某个节�
 
 以上就是一个完整的Spring Cloud生态图。
 
-最后送一个完整示例的Spring Cloud开源项目等你去[spring-cloud-examples](https://github.com/ityouknow/spring-cloud-examples)
 
 -------------
 

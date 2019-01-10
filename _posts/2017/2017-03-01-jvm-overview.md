@@ -61,7 +61,6 @@ jvm体系总体分四大块：
 
 >  *几个小问题？*  
 >  *1、JVM初始化步骤 ？ 2、类初始化时机 ？3、哪几种情况下，Java虚拟机将结束生命周期？*  
->  *答案参考这篇文章[jvm系列(一):java类的加载机制](http://www.cnblogs.com/ityouknow/p/5603287.html)*
 
 
 **类加载器**
@@ -112,7 +111,6 @@ jvm体系总体分四大块：
 - 空间分配担保。每次进行Minor GC时，JVM会计算Survivor区移至老年区的对象的平均大小，如果这个值大于老年区的剩余值大小则进行一次Full GC，如果小于检查HandlePromotionFailure设置，如果true则只进行Monitor GC,如果false则进行Full GC。   
 
 > *如何通过参数来控制个各个内存区域*  
-> *参考此文章：[jvm系列(二):JVM内存结构](http://www.cnblogs.com/ityouknow/p/5610232.html)*
 
 ## GC算法 垃圾回收
 
@@ -149,7 +147,6 @@ GC最基础的算法有三种：标记 -清除算法、复制算法、标记-压
 - G1收集器，G1 (Garbage-First)是一款面向服务器的垃圾收集器,主要针对配备多颗处理器及大容量内存的机器. 以极高概率满足GC停顿时间要求的同时,还具备高吞吐量性能特征  
 
 
-> *GC算法和垃圾回收器算法图解以及更详细内容参考 [jvm系列(三):GC算法 垃圾收集器](http://www.cnblogs.com/ityouknow/p/5614961.html)*  
 
 
 

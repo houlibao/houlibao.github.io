@@ -205,9 +205,6 @@ Spring Boot 2.0 刚刚发布，一些 Maven 仓库还没更新，如果导入项
 
 项目的启动 Banner 有什么用呢，在一些大的组织或者公司中，可以利用这个特性定制自己专属的启动画面，增加团队对品牌的认同感。
 
-**[示例代码-github](https://github.com/ityouknow/spring-boot-examples)**
-
-**[示例代码-码云](https://gitee.com/ityouknow/spring-boot-examples)**
 
 ## 参考
 

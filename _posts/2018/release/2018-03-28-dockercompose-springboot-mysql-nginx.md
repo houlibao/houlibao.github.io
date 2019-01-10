@@ -316,9 +316,6 @@ docker-compose down
 其实容器技术对部署运维的优化还有很多，这只是刚刚开始，后面使用了 Swarm 才会真正感受到它的便利和强大。
 
 
-**[示例代码-github](https://github.com/ityouknow/spring-boot-examples)**
-
-**[示例代码-码云](https://gitee.com/ityouknow/spring-boot-examples)**
 
 
 ## 参考

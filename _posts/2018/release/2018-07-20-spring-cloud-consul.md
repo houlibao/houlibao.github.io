@@ -374,6 +374,3 @@ helle consul two
 说明我们已经成功的调用了 Consul 服务端提供的服务，并且实现了服务端的均衡负载功能。通过今天的实践我们发现 Consul 提供的服务发现易用、强大。
 
 
-**[示例代码-github](https://github.com/ityouknow/spring-cloud-examples)**
-
-**[示例代码-码云](https://gitee.com/ityouknow/spring-cloud-examples)**

@@ -148,9 +148,6 @@ Spring Cloud Sleuth有一个Sampler策略，可以通过这个实现类来控制
 ![](http://www.hlbhcz.com/assets/images/2018/springcloud/zipkin3.png) 
 
 
-**[示例代码-github](https://github.com/ityouknow/spring-cloud-examples)**
-
-**[示例代码-码云](https://gitee.com/ityouknow/spring-cloud-examples)**
 
 
 **参考：**

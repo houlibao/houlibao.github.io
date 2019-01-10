@@ -289,7 +289,6 @@ end
 ```
 看到这里小明又开始哼起了歌曲。。。
 
-**[文中完整的示例代码](https://github.com/ityouknow/drools-examples)**
 
 > 本篇文章算是对drools的简单介绍，后续文章将详细介绍drools的使用。
 

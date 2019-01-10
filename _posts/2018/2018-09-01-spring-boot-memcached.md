@@ -141,6 +141,4 @@ public class RepositoryTests {
 表明测试成功。
 
 
-**[示例代码-github](https://github.com/ityouknow/spring-boot-examples)**
 
-**[示例代码-码云](https://gitee.com/ityouknow/spring-boot-examples)**

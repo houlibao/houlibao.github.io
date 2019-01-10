@@ -115,21 +115,15 @@ permalink: /blog
 ## 爬虫
 
 - [python3爬取1024图片](http://www.hlbhcz.com/python/2016/10/30/python3%E7%88%AC%E5%8F%961024%E5%9B%BE%E7%89%87.html)
-- [网贷之家的爬虫之旅](http://www.cnblogs.com/ityouknow/p/4423998.html)
-- [抓取某一个网站整站的记录](http://www.cnblogs.com/ityouknow/p/5446199.html)
+
 
 
 ## 运维
 
 - [linux定时备份mysql并同步到其它服务器](http://www.hlbhcz.com/mysql/2016/09/09/linux%E5%AE%9A%E6%97%B6%E5%A4%87%E4%BB%BDmysql%E5%B9%B6%E5%90%8C%E6%AD%A5%E5%88%B0%E5%85%B6%E5%AE%83%E6%9C%8D%E5%8A%A1%E5%99%A8.html)
-- [Elasticsearch、Logstash、Kibana搭建统一日志分析平台](http://www.cnblogs.com/ityouknow/p/4933103.html)
-- [大数据实践-数据同步篇tungsten-relicator（mysql-&gt;mongo）](http://www.cnblogs.com/ityouknow/p/4918164.html)
-- [网站文件系统发展&&分布式文件系统fastDFS](http://www.cnblogs.com/ityouknow/p/5344857.html)
+
 
 
 ## spring 
 
-- [spring aop](http://www.cnblogs.com/ityouknow/p/5329550.html)
-- [spring ioc](http://www.cnblogs.com/ityouknow/p/5311360.html)
-- [spring 多数据源一致性事务方案](http://www.cnblogs.com/ityouknow/p/4977136.html)
 

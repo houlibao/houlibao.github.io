@@ -41,8 +41,8 @@ permalink: /link
 
 ## 个人链接
 
-- [ityouknow](http://www.hlbhcz.com) - 个人独立博客
-- [github](https://github.com/ityouknow) -  我分享代码的地方
+- [Yvan2Life](http://www.hlbhcz.com) - 个人独立博客
+- [github](https://github.com/houlibao) -  我分享代码的地方
 - [微博]() -  我的微博
 - [知乎]() - 个人知乎地址，用的不太多大多数都在潜水
 - [博客园]() - 博客园个人博客

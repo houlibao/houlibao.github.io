@@ -8,7 +8,6 @@ keywords: Spring Boot,open source
 
 2016年 Spring Boot 还没有被广泛使用，在网上查找相关开源软件的时候没有发现几个，到了现在经过2年的发展，很多互联网公司已经将 Spring Boot 搬上了生产，而使用 Spring Boot 的开源软件在 Github/码云 上面已有不少，这篇文章就给大家介绍一下 Github/码云 上面和 Spring Boot 相关的开源软件。
 
-## 1、 [awesome-spring-boot](https://github.com/ityouknow/awesome-spring-boot)
 
 首先给大家介绍的就是Spring Boot 中文索引，这是一个专门收集 Spring Boot 相关资料的开源项目，也有对应的导航页面。
 
@@ -18,7 +17,6 @@ keywords: Spring Boot,open source
 
 **项目主页**
 
-[https://github.com/ityouknow/awesome-spring-boot](https://github.com/ityouknow/awesome-spring-boot)
 
 **产品截图**
 
@@ -186,13 +184,11 @@ Spring Boot mybatis mysql后台商城 h5 小程序
 ![](http://www.hlbhcz.com/assets/images/2018/springboot/webappchat.png) 
 
 
-## 10、 [spring-boot-examples](https://github.com/ityouknow/spring-boot-examples)
 
 Spring Boot 技术栈示例代码，快速简单上手教程，一个帮助大家学习 Spring Boot的开源示例项目。
 
 **项目主页**
 
-[https://github.com/ityouknow/spring-boot-examples](https://github.com/ityouknow/spring-boot-examples)
 
 **产品截图**
 

@@ -116,6 +116,3 @@ The service has started.
 在实践中，使用`ApplicationRunner`也可以达到相同的目的，两着差别不大。看来使用 Spring Boot 解决初始化资源的问题非常简单。
 
 
-**[示例代码-github](https://github.com/ityouknow/spring-boot-examples)**
-
-**[示例代码-码云](https://gitee.com/ityouknow/spring-boot-examples)**

@@ -324,6 +324,3 @@ list列表
 
 当然所以的示例代码都在这里： 
  
-**[示例代码-github](https://github.com/ityouknow/spring-boot-examples)**
-
-**[示例代码-码云](https://gitee.com/ityouknow/spring-boot-examples)**

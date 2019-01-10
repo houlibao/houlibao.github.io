@@ -17,7 +17,6 @@ excerpt: 说起我的博客那是一个故事
 
 后面我根据自己的情况，做了一些定制，就成了现在的样子：
 
-![](http://www.hlbhcz.com/assets/images/2018/life/ityouknow.png)
 
 
 刚开始接触 Jekyll 的时候对它并不是很了解，Markdown 语法也只是停留在”听说过“这个阶段，看到这个主题后，花了一点时间尝试着按照它的语法写了一篇文章，发现有一种用敲代码的方式去写文章的感觉，文章渲染之后的效果也很好。掌握了这个技能之后，我的写作利器就成了 Sublime text 3 + Markdown 组件 + Github + Jekyll。

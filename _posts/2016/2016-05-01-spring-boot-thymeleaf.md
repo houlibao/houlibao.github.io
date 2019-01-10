@@ -467,7 +467,7 @@ htmlhead 是指定义的代码片段 如 ```th:fragment="copy"```
 
 **[示例代码-github](https://github.com/cloudfavorites/favorites-web)**
 
-**[示例代码-码云](https://gitee.com/ityouknow/favorites-web)**
+ 
 
 ## 参考 
 
