@@ -9,4 +9,4 @@
 博客主题使用:[Yummy-Jekyll](https://github.com/DONGChuan/Yummy-Jekyll)
 
 
-## 我的微信公众号
+## 我的微信公众号：Yvan2Life
