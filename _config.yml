@@ -75,6 +75,10 @@ navs:
   -
     href: /link.html
     label: Link
+    
+  -
+    href: /blockchain.html
+    label: blockchain
 
   -
     href: /about.html
