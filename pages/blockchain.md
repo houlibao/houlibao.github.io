@@ -8,6 +8,6 @@ css: ['about.css', 'sidebar-popular-repo.css', '../../bower_components/flag-icon
 permalink: /blockchain
 ---
 
-- <h1>[区块链之成语接龙 ](http://app.houlibao.cn/blockchain-Idiom-Solitaire)<h1>
+- [区块链之成语接龙 ](http://app.houlibao.cn/blockchain-Idiom-Solitaire)
 
 
