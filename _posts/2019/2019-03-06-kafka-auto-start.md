@@ -22,7 +22,7 @@ chmod 755 /etc/init.d/kafka
 
    接着对脚本进行修改
 
-        #!/bin/sh
+		#!/bin/sh
 		#chkconfig: 2345 10 90
 		#description: kafka  service
 		#设置java安装路径
