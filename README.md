@@ -3,7 +3,7 @@
 这是我的个人博客项目，里面会记录生活和技术的点点滴滴。
 
 
-访问地址：[http://www.hlbhcz.com/](http://www.hlbhcz.com/)
+访问地址：[http://www.yvantan.com/](http://www.yvantan.com/)
 
 
 博客主题使用:[Yummy-Jekyll](https://github.com/DONGChuan/Yummy-Jekyll)
