@@ -15,7 +15,7 @@ keywords: Yvan,Yvan的人生,Spring,Spring Boot,Spring Cloud,MongoDB,Jvm,Docker,
 encoding: "utf-8"
 favicon: favicon.png 
 
-repository: houlibao/yvan.github.io
+repository: houlibao/yvantan.github.io
 github_url: https://github.com/houlibao
 url: http://www.yvantan.com
 enforce_ssl: yvantan.com
