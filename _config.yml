@@ -17,8 +17,8 @@ favicon: favicon.png
 
 repository: houlibao/houlibao.github.io
 github_url: https://github.com/houlibao
-url: http://www.hlbhcz.com
-enforce_ssl: hlbhcz.com
+url: http://www.yvantan.com
+enforce_ssl: yvantan.com
 
 ## Gem
 plugins:
