@@ -12,7 +12,7 @@ no-post-nav: true
 
 ## 博客
 
-- [Yvan的人生](http://www.hlbhcz.com)
+- [Yvan的人生](http://www.yvantan.com)
 
 - [粉丝日志](http://blog.fens.me/series-hadoop-family/)
 

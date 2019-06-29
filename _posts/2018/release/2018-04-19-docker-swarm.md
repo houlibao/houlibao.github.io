@@ -14,7 +14,7 @@ Swarm 在 Docker 1.12 版本之前属于一个独立的项目，在 Docker 1.12 
 
 Docker Swarm 是一个为 IT 运维团队提供集群和调度能力的编排工具。用户可以把集群中所有 Docker Engine 整合进一个「虚拟 Engine」的资源池，通过执行命令与单一的主 Swarm 进行沟通，而不必分别和每个 Docker Engine 沟通。在灵活的调度策略下，IT 团队可以更好地管理可用的主机资源，保证应用容器的高效运行。
 
-![](http://www.hlbhcz.com/assets/images/2018/docker/swarmcluster.png)
+![](http://www.yvantan.com/assets/images/2018/docker/swarmcluster.png)
 
 ##  Docker Swarm 优点
 
@@ -51,7 +51,7 @@ Swarm 对 Docker API 完全支持，这意味着它能为使用不同 Docker 工
 
 工作节点是任务执行节点，管理节点将服务 (service) 下发至工作节点执行。管理节点默认也作为工作节点。你也可以通过配置让服务只运行在管理节点。下图展示了集群中管理节点与工作节点的关系。  
 
-![](http://www.hlbhcz.com/assets/images/2018/docker/swarm_manager_worker.png)
+![](http://www.yvantan.com/assets/images/2018/docker/swarm_manager_worker.png)
 
 ###   服务和任务
 
@@ -63,7 +63,7 @@ Swarm 对 Docker API 完全支持，这意味着它能为使用不同 Docker 工
 
 两种模式通过 docker service create 的 --mode 参数指定。下图展示了容器、任务、服务的关系。
 
-![](http://www.hlbhcz.com/assets/images/2018/docker/swarm_services.png)
+![](http://www.yvantan.com/assets/images/2018/docker/swarm_services.png)
 
 
 ### 创建 Swarm 集群
@@ -256,7 +256,7 @@ docker pull registry.docker-cn.com/library/alpine
 现在我们在上一节创建的 Swarm 集群中运行一个名为 helloworld 服务。
 
 ``` sh
-docker@manager1:~$ docker service create --replicas 1 --name helloworld alpine ping hlbhcz.com
+docker@manager1:~$ docker service create --replicas 1 --name helloworld alpine ping yvantan.com
 rwpw7eij4v6h6716jvqvpxbyv
 overall progress: 1 out of 1 tasks
 1/1: running   [==================================================>]
@@ -268,7 +268,7 @@ verify: Service converged
 - `docker service create` 命令创建一个服务
 - `--name` 服务名称命名为 `helloworld`
 - `--replicas` 设置启动的示例数
-- `alpine `指的是使用的镜像名称，`ping hlbhcz.com`指的是容器运行的bash
+- `alpine `指的是使用的镜像名称，`ping yvantan.com`指的是容器运行的bash
 
 使用命令 `docker service ps rwpw7eij4v6h6716jvqvpxbyv` 可以查看服务进展
 
@@ -313,7 +313,7 @@ UpdateConfig:
  Rollback order:    stop-first
 ContainerSpec:
  Image:         alpine:latest@sha256:7b848083f93822dd21b0a2f14a110bd99f6efb4b838d499df6d04a49d0debf8b
- Args:          ping hlbhcz.com
+ Args:          ping yvantan.com
 Resources:
 Endpoint Mode:  vip
 ```
@@ -339,7 +339,7 @@ docker-machine ssh  worker1
 ``` sh
 docker@worker1:~$   docker ps
 CONTAINER ID        IMAGE               COMMAND                CREATED             STATUS              PORTS               NAMES
-96bf5b1d8010        alpine:latest       "ping hlbhcz.com"   4 minutes ago       Up 4 minutes                            helloworld.1.rgroe3s9qa53lf4u4ky0tzcb8
+96bf5b1d8010        alpine:latest       "ping yvantan.com"   4 minutes ago       Up 4 minutes                            helloworld.1.rgroe3s9qa53lf4u4ky0tzcb8
 ```
 
 这样的话，我们在 Swarm 集群中成功的运行了一个 helloworld 服务，根据命令可以看出在 worker1 节点上运行。

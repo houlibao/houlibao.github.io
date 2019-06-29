@@ -5,7 +5,7 @@ category: springboot
 tags: [springboot]
 ---
 
-在上篇文章[springboot(二)：web综合开发](http://www.hlbhcz.com/springboot/2016/02/03/spring-boot-web.html)中简单介绍了一下spring data jpa的基础性使用，这篇文章将更加全面的介绍spring data jpa 常见用法以及注意事项
+在上篇文章[springboot(二)：web综合开发](http://www.yvantan.com/springboot/2016/02/03/spring-boot-web.html)中简单介绍了一下spring data jpa的基础性使用，这篇文章将更加全面的介绍spring data jpa 常见用法以及注意事项
 
 
  
@@ -339,5 +339,5 @@ private String  userName;
 -------------
 
 **作者：Yvan的人生**  
-**出处：[www.hlbhcz.com](http://www.hlbhcz.com)**   
+**出处：[www.yvantan.com](http://www.yvantan.com)**   
 **版权所有，欢迎保留原文链接进行转载：)**

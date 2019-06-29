@@ -305,5 +305,5 @@ chmod 777 rsync.sh
 -------------
 
 **作者：Yvan的人生**  
-**出处：[www.hlbhcz.com](http://www.hlbhcz.com)**   
+**出处：[www.yvantan.com](http://www.yvantan.com)**   
 **版权所有，欢迎保留原文链接进行转载 :)**

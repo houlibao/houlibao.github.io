@@ -232,6 +232,6 @@ class HelloController {
 
 -------------
 **作者：Yvan的人生**  
-**出处：[http://www.hlbhcz.com/](http://www.hlbhcz.com/springcloud/2017/05/22/springcloud-config-git.html)**      
+**出处：[http://www.yvantan.com/](http://www.yvantan.com/springcloud/2017/05/22/springcloud-config-git.html)**      
 **版权归作者所有，转载请注明出处** 
 

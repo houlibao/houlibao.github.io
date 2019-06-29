@@ -13,9 +13,9 @@ excerpt: 区块链
 
 那么区块链到底是什么？下面用一张图说明。
 
-![](http://www.hlbhcz.com/assets/images/2019/blockchain/blockchain1.jpg)
-![](http://www.hlbhcz.com/assets/images/2019/blockchain/blockchain2.jpg)
-![](http://www.hlbhcz.com/assets/images/2019/blockchain/blockchain3.jpg)
-![](http://www.hlbhcz.com/assets/images/2019/blockchain/blockchain4.jpg)
+![](http://www.yvantan.com/assets/images/2019/blockchain/blockchain1.jpg)
+![](http://www.yvantan.com/assets/images/2019/blockchain/blockchain2.jpg)
+![](http://www.yvantan.com/assets/images/2019/blockchain/blockchain3.jpg)
+![](http://www.yvantan.com/assets/images/2019/blockchain/blockchain4.jpg)
 
 

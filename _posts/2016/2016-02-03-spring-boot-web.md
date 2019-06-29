@@ -5,7 +5,7 @@ category: springboot
 tags: [springboot]
 ---
 
-上篇文章介绍了Spring boot初级教程：[spring boot(一)：入门篇](http://www.hlbhcz.com/springboot/2016/01/06/spring-boot-quick-start.html)，方便大家快速入门、了解实践Spring boot特性；本篇文章接着上篇内容继续为大家介绍spring boot的其它特性（有些未必是spring boot体系桟的功能，但是是spring特别推荐的一些开源技术本文也会介绍），对了这里只是一个大概的介绍，特别详细的使用我们会在其它的文章中来展开说明。
+上篇文章介绍了Spring boot初级教程：[spring boot(一)：入门篇](http://www.yvantan.com/springboot/2016/01/06/spring-boot-quick-start.html)，方便大家快速入门、了解实践Spring boot特性；本篇文章接着上篇内容继续为大家介绍spring boot的其它特性（有些未必是spring boot体系桟的功能，但是是spring特别推荐的一些开源技术本文也会介绍），对了这里只是一个大概的介绍，特别详细的使用我们会在其它的文章中来展开说明。
 
 
 ##  web开发
@@ -392,7 +392,7 @@ bootRun {
 -------------
 
 **作者：Yvan的人生**  
-**出处：[www.hlbhcz.com](http://www.hlbhcz.com)**    
+**出处：[www.yvantan.com](http://www.yvantan.com)**    
 **版权所有，欢迎保留原文链接进行转载：)**
 
 
